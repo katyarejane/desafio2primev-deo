@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.sumario {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 30px;
+    list-style-type: none;
+}
+.banner {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+header{
+    width: 100%;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+section{
+    width: 10%;
+    align-items: center;
+    display: flex;
+}
+
+.rodape{
+    width: 100%;
+    color: white;
+    background-color: black;
+    display: flex;
+    align-content: center;
+}
+.icons{
+    width: 1px;
+    display: flex;
+}
