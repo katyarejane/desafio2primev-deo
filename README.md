@@ -1,3 +1,3 @@
 # desafio2primev-deo
 
-Desfio feito nas aulas do Vai na Web usando HTML e Css.
+Desafio feito nas aulas do Vai na Web usando HTML e Css.
